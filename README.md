@@ -20,7 +20,7 @@ No third-party npm packages are required. The application uses Node.js core modu
 
 ### Valid request
 ```bash
-curl -i -X POST http://localhost:3000/api/register -H "Content-Type: application/json" -d "{\"name\":\"Akhil Kombe\",\"email\":\"akhil@example.com\",\"age\":21}"
+curl -i -X POST http://localhost:3000/api/register -H "Content-Type: application/json" -d "{\"name\":\"Arya Bhat\",\"email\":\"aryabhat28@example.com\",\"age\":21}"
 ```
 
 ### Invalid request
